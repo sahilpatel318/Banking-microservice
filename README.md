@@ -27,5 +27,6 @@ Follow these steps to run the project on your machine:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/tubakhxn/banking-microservice.git
+git clone https://github.com/sahilpatel318/Banking-microservice.git
 cd banking-microservice
+
